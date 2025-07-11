@@ -9,3 +9,7 @@ button {
 button:hover {
   background-color: darkblue;
 }
+::selection {
+  background: purple;
+  color: white;
+}
